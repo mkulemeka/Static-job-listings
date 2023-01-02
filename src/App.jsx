@@ -9,7 +9,7 @@ const App = () => {
 
   //get data upon page load and set state
   useEffect(() => {
-    axios.get("../data.json").then((res) => setData(res.data));
+    axios.get("/db/data.json").then((res) => setData(res.data));
   }, []);
 
   const filterJobs = ({ languages, level, role, tools }) => {
