@@ -27,13 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./src/assets/job-listing-complete.png)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://mk-static-job-listing.netlify.app)
 
 
 ### Built with
@@ -46,7 +46,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Mtendere Kulemeka](https://www.devmk.netlify.app)
 - Frontend Mentor - [@mkulemeka](https://www.frontendmentor.io/profile/mkulemeka)
 
 ## Acknowledgments
